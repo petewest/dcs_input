@@ -41,6 +41,14 @@ local diff = {
 			},
 			["name"] = "Trimmer reset",
 		},
+		["d3012pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Landing Light Switch",
+		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
