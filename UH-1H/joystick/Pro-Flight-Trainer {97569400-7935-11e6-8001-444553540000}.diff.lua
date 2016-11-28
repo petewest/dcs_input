@@ -49,6 +49,22 @@ local diff = {
 			},
 			["name"] = "Landing Light Switch",
 		},
+		["d3019pnilu3019cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Decrease Turbine RPM",
+		},
+		["d3019pnilu3019cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Increase Turbine RPM",
+		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
