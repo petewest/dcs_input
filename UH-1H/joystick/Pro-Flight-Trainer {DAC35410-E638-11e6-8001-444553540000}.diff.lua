@@ -33,6 +33,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1633pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "External Cargo Hook",
+		},
+		["d1634pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "External Cargo Autounhook",
+		},
 		["d3003pnilunilcd41vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -41,13 +57,45 @@ local diff = {
 			},
 			["name"] = "Trimmer reset",
 		},
+		["d3006pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Search light On",
+		},
+		["d3007pnilunilcd7vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Landing light Retract",
+		},
+		["d3007pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Landing light Extend",
+		},
 		["d3012pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "Landing Light Switch",
+		},
+		["d3018pnilu3018cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Start-up engine",
 		},
 		["d3019pnilu3019cd3vd-1vpnilvu0"] = {
 			["added"] = {
@@ -64,6 +112,38 @@ local diff = {
 				},
 			},
 			["name"] = "Increase Turbine RPM",
+		},
+		["d511pnilu515cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV3_L",
+				},
+			},
+			["name"] = "Search light Left",
+		},
+		["d512pnilu515cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV3_R",
+				},
+			},
+			["name"] = "Search light Right",
+		},
+		["d513pnilu515cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV3_D",
+				},
+			},
+			["name"] = "Search light Retract",
+		},
+		["d514pnilu515cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV3_U",
+				},
+			},
+			["name"] = "Search light Extend",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -123,6 +203,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Center View",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
 				},
 			},
 		},
