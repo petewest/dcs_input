@@ -15,6 +15,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "VHF AM Communication Menu",
+		},
 		["d283pnilu283cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
